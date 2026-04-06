@@ -6,3 +6,7 @@ Estudo Dirigido 1 - Programação Orientada a Objetos
 FERNANDO ROMÃO DE CASTRO
 
 VITOR AUGUSTO CASAGRANDE 
+
+ARTHUR GANZERT 
+
+DOUGLAS DANESKI 
